@@ -1,5 +1,6 @@
 .page__header {
-    margin: 28px 48px 0 48px;
+    margin: 0 48px 0 48px;
+    padding-top: 28px;
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -9,7 +10,8 @@
 
 @media (max-width: 1023px) and (min-width: 768) {
     .page__header {
-        margin: 28px 24px 0 24px;
+        margin: 0 24px 0 24px;
+        
     }
 
 }
@@ -18,7 +20,8 @@
     .page__header {
         font-size: 18px;
         line-height: 20px;
-        margin: 16px 16px 0 16px;
+        margin: 0 16px 0 16px;
+        padding-top: 16px;
     }
 }
 

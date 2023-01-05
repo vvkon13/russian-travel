@@ -1,0 +1,28 @@
+.lead__img-caption-block {
+    width: 928px;
+    display: block;
+    margin: 0 auto 0 auto;
+    padding: 0;
+
+}
+
+@media (min-width: 1280px) {
+    .lead__img-caption-block {
+        width: 984px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+    .lead__img-caption-block {
+        width: 100%;
+        margin: 0;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .lead__img-caption-block {
+        width: 320px;
+        margin: 0;
+    }
+}
