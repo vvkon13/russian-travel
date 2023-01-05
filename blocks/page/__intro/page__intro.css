@@ -1,0 +1,25 @@
+.page__intro {
+    margin: 92px auto 92px 48px;
+
+}
+
+@media (min-width: 1280px) {
+    .page__intro {
+        margin: 92px auto 92px 148px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .page__intro {
+        margin: 88px auto;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    .page__intro {
+        margin: 64px auto;
+    }
+
+}
