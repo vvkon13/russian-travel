@@ -8,7 +8,7 @@
     letter-spacing: 0em;
 }
 
-@media (max-width: 1023px) and (min-width: 768) {
+@media (max-width: 1023px) and (min-width: 768px) {
     .page__header {
         margin: 0 24px 0 24px;
         
