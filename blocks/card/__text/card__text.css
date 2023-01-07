@@ -1,0 +1,13 @@
+.card__text {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+@media (max-width:320px) {
+    .card__text {
+        width: 288px;
+        margin: 0 auto 0 auto;
+    }
+}
