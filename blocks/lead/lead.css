@@ -1,3 +1,5 @@
 .lead {
     position: relative;
+    min-width: 288px;
+    padding: 0;
 }

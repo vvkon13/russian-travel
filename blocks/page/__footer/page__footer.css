@@ -14,3 +14,9 @@
 
     }
 }
+
+@media (min-width: 1280px){
+    .page__footer {
+        margin: 92px auto 0 auto;
+    }
+}

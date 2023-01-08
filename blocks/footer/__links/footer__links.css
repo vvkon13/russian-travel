@@ -4,7 +4,6 @@
     list-style: none;
     padding: 0;
     margin: 0;
-
     line-height: 0;
 }
 
@@ -13,7 +12,5 @@
         flex-direction: column;
         width: 288px;
         gap: 32px;
-
     }
-
 }
