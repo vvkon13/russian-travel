@@ -15,7 +15,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    box-sizing: border-box;
 }
 
 .cover__link::before {
