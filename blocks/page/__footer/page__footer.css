@@ -11,11 +11,10 @@
 @media (max-width: 767px) {
     .page__footer {
         margin: 64px auto 0px auto;
-
     }
 }
 
-@media (min-width: 1280px){
+@media (min-width: 1280px) {
     .page__footer {
         margin: 92px auto 0 auto;
     }
