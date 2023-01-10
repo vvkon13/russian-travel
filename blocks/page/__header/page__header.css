@@ -14,7 +14,7 @@
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .page__header {
         font-size: 18px;
         line-height: 20px;

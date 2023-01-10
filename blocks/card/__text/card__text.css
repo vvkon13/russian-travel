@@ -3,15 +3,15 @@
     padding: 0;
 }
 
-@media (max-width:767px) {
-    .card__text {
-        width: 288px;
-        margin: 0 auto;
-    }
-}
-
 @media (min-width:768px) and (max-width: 1023px) {
     .card__text {
         width: 352px;
+    }
+}
+
+@media (max-width:768px) {
+    .card__text {
+        width: 288px;
+        margin: 0 auto;
     }
 }

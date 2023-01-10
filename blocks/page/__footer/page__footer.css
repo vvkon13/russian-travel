@@ -8,7 +8,7 @@
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .page__footer {
         margin: 64px auto 0px auto;
     }

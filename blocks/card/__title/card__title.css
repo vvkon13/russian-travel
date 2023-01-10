@@ -24,7 +24,7 @@
     }
 }
 
-@media (max-width:767px) {
+@media (max-width:768px) {
     .card__title {
         display: block;
         width: calc(100% - 32px);

@@ -6,7 +6,7 @@
     justify-content: flex-end;
 }
 
-@media (max-width:767px) {
+@media (max-width:768px) {
     .card__website {
         width: calc(100% - 32px);
         margin: 0 auto;
