@@ -1,20 +1,20 @@
 .lead__img-caption-block {
-    width: 928px;
-    display: block;
-    margin: 0 auto;
-    padding: 0;
-    box-sizing: border-box;
+  width: 928px;
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@media (min-width: 1280px) {
-    .lead__img-caption-block {
-        width: 984px;
-    }
+@media (min-width:1280px) {
+  .lead__img-caption-block {
+    width: 984px;
+  }
 }
 
-@media (max-width: 1023px) {
-    .lead__img-caption-block {
-        width: 100%;
-        margin: 0;
-    }
+@media (max-width:1023px) {
+  .lead__img-caption-block {
+    width: 100%;
+    margin: 0;
+  }
 }

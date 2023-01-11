@@ -1,11 +1,11 @@
 .cover {
-    padding: 0;
-    position: relative;
+  padding: 0;
+  position: relative;
 }
 
-@media (min-width: 1280px) {
-    .cover {
-        width: 1184px;
-        min-height: 740px;
-    }
+@media (min-width:1280px) {
+  .cover {
+    width: 1184px;
+    min-height: 740px;
+  }
 }

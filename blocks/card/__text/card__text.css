@@ -1,17 +1,10 @@
 .card__text {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-@media (min-width:768px) and (max-width: 1023px) {
-    .card__text {
-        width: 352px;
-    }
-}
-
-@media (max-width:768px) {
-    .card__text {
-        width: 288px;
-        margin: 0 auto;
-    }
+@media (max-width:767px) {
+  .card__text {
+    margin: 0 16px;
+  }
 }

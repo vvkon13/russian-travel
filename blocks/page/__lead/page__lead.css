@@ -1,9 +1,9 @@
 .page__lead {
-    margin: 48px auto 0 auto;
+  margin: 48px auto 0 auto;
 }
 
-@media (min-width: 1280px) {
-    .page__lead {
-        margin-top: 56px;
-    }
+@media (min-width:1280px) {
+  .page__lead {
+    margin-top: 56px;
+  }
 }

@@ -1,20 +1,20 @@
 .footer__author {
-    padding: 0;
-    margin: 0;
-    font-family: 'Inter', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 16px;
-    color: #FFFFFF;
-    text-align: right;
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+  text-align: right;
 }
 
-@media (max-width: 767px) {
-    .footer__author {
-        margin-top: 48px;
-        line-height: 14px;
-        width: 288px;
-        text-align: left;
-    }
+@media (max-width:767px) {
+  .footer__author {
+    margin-top: 48px;
+    line-height: 14px;
+    width: 288px;
+    text-align: left;
+  }
 }

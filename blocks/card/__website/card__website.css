@@ -1,14 +1,14 @@
 .card__website {
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
-@media (max-width:768px) {
-    .card__website {
-        width: calc(100% - 32px);
-        margin: 0 auto;
-    }
+@media (max-width:767px) {
+  .card__website {
+    width: calc(100% - 32px);
+    margin: 0 auto;
+  }
 }

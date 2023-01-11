@@ -1,16 +1,16 @@
 .intro {
-    width: 690px;
-    padding: 0;
+  width: 690px;
+  padding: 0;
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
-    .intro {
-        width: 720px;
-    }
+@media (max-width:1023px) {
+  .intro {
+    width: 720px;
+  }
 }
 
-@media (max-width: 768px) {
-    .intro {
-        width: 288px;
-    }
+@media (max-width:767px) {
+  .intro {
+    width: calc(100% - 32px);
+  }
 }
