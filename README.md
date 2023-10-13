@@ -1,31 +1,15 @@
-# Проект: Путешествие по России
+# [<img src="https://papik.pro/izobr/uploads/posts/2023-02/1676957661_papik-pro-p-poezd-sharzh-25.jpg" height="136px"/>](https://github.com/vvkon13)
+# :crocodile: Project: Travel to Russia
 
-### Обзор
-* Интро
-* Figma
-* Картинки
-* Результат
-* Ссылка на сайт: https://vvkon13.github.io/russian-travel 
-* Сайт опубликован на GitHub Pages.
+### Functionality:
+The project is a one-page business card website.
+Semantic content - Interesting places in Russia. 
+Flexbox technologies are used. The structure of BEM files (Nested). Implemented Adaptivity (@media).
 
-**Интро**
+### :wrench: :hammer: :floppy_disk: Stack:   
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+<img src="https://img.shields.io/badge/HTML-2F4F4F?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Git-2F4F4F?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-2F4F4F?style=for-the-badge&logo=figma"/>
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
-
-**Результат**
-Проект - это одностраничный сайт - макет.
-Смысловая наполняемость - Интересные места России. 
-Используются технологии - Flexbox. Структруа файлов БЭМ (Nested). Реализована Адаптивность (@media).
+#### [References to the project:](https://vvkon13.github.io/russian-travel)
+Link to the website: https://vvkon13.github.io/russian-travel 
+The site is published on GitHub Pages.
