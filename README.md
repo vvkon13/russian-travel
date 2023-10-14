@@ -10,6 +10,10 @@ Flexbox technologies are used. The structure of BEM files (Nested). Implemented 
 
 <img src="https://img.shields.io/badge/HTML-2F4F4F?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Git-2F4F4F?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-2F4F4F?style=for-the-badge&logo=figma"/>
 
+### 🏗️: Installation:
+* git clone git@github.com:vvkon13/russian-travel.git
+* `Installation is complete run index.html in your browser`  
+
 #### [References to the project:](https://vvkon13.github.io/russian-travel)
 Link to the website: https://vvkon13.github.io/russian-travel 
 The site is published on GitHub Pages.
